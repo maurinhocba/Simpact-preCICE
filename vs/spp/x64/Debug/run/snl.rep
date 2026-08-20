@@ -1,0 +1,45 @@
+                                 S I M P A C T
+
+                                 version: 7.2.0
+                                 date   : 06/12/12
+
+                     EXPLICIT NONLINEAR DYNAMIC ANALYSIS        
+                         BY THE FINITE ELEMENT METHOD           
+              GROUP OF NUMERICAL METHODS IN STRUCTURAL MECHANICS
+                           DEPARTMENT OF STRUCTURES             
+                        NATIONAL UNIVERSITY OF CORDOBA          
+                           (C) G M N M E   CopyRight            
+                              CORDOBA - ARGENTINA               
+
+
+                       Started at  19:47:33  on  20/08/2026
+
+
+*** PLEASE WAIT FOR THE PRELIMINARY CALCULATIONS TO BE COMPLETED ...
+
+
+     ***  BEGIN STAGE 1: str01                                                                                              
+
+ STEP 1250   DT=  0.5748E-04   Time= 0.71798E-01   CPU 0:00:01  CPU to end stage (est.) 0:01:17
+ STEP 2500   DT=  0.5748E-04   Time= 0.14365E+00   CPU 0:00:02  CPU to end stage (est.) 0:01:05
+ STEP 3750   DT=  0.5748E-04   Time= 0.21551E+00   CPU 0:00:03  CPU to end stage (est.) 0:01:02
+ STEP 5000   DT=  0.5748E-04   Time= 0.28736E+00   CPU 0:00:03  CPU to end stage (est.) 0:00:59
+ STEP 6250   DT=  0.5748E-04   Time= 0.35922E+00   CPU 0:00:04  CPU to end stage (est.) 0:00:58
+ STEP 7500   DT=  0.5748E-04   Time= 0.43108E+00   CPU 0:00:05  CPU to end stage (est.) 0:00:57
+ STEP 8750   DT=  0.5748E-04   Time= 0.50293E+00   CPU 0:00:06  CPU to end stage (est.) 0:00:56
+ STEP 10000   DT=  0.5748E-04   Time= 0.57479E+00   CPU 0:00:07  CPU to end stage (est.) 0:00:55
+ STEP 11250   DT=  0.5748E-04   Time= 0.64664E+00   CPU 0:00:08  CPU to end stage (est.) 0:00:54
+ STEP 12500   DT=  0.5748E-04   Time= 0.71850E+00   CPU 0:00:09  CPU to end stage (est.) 0:00:53
+ STEP 13750   DT=  0.5748E-04   Time= 0.79035E+00   CPU 0:00:10  CPU to end stage (est.) 0:00:53
+ STEP 15000   DT=  0.5748E-04   Time= 0.86221E+00   CPU 0:00:11  CPU to end stage (est.) 0:00:52
+ STEP 16250   DT=  0.5748E-04   Time= 0.93407E+00   CPU 0:00:12  CPU to end stage (est.) 0:00:51
+ STEP 17500   DT=  0.5748E-04   Time= 0.10059E+01   CPU 0:00:13  CPU to end stage (est.) 0:00:50
+ STEP 18750   DT=  0.5748E-04   Time= 0.10778E+01   CPU 0:00:13  CPU to end stage (est.) 0:00:49
+ STEP 20000   DT=  0.5748E-04   Time= 0.11496E+01   CPU 0:00:14  CPU to end stage (est.) 0:00:48
+ STEP 21250   DT=  0.5748E-04   Time= 0.12215E+01   CPU 0:00:15  CPU to end stage (est.) 0:00:47
+ STEP 22500   DT=  0.5748E-04   Time= 0.12933E+01   CPU 0:00:16  CPU to end stage (est.) 0:00:46
+ STEP 23750   DT=  0.5748E-04   Time= 0.13652E+01   CPU 0:00:17  CPU to end stage (est.) 0:00:45
+ STEP 25000   DT=  0.5748E-04   Time= 0.14371E+01   CPU 0:00:18  CPU to end stage (est.) 0:00:44
+ STEP 26250   DT=  0.5748E-04   Time= 0.15089E+01   CPU 0:00:19  CPU to end stage (est.) 0:00:43
+ STEP 27500   DT=  0.5748E-04   Time= 0.15808E+01   CPU 0:00:20  CPU to end stage (est.) 0:00:43
+ STEP 28750   DT=  0.5748E-04   Time= 0.16526E+01   CPU 0:00:21  CPU to end stage (est.) 0:00:42

@@ -1,0 +1,20 @@
+
+DIFERENCIAS ENTRE SIMPACT Y SIMPACTA QUE ESTOY SEGURO HAY QUE ELIMINAR
+todos las archivos en las 4 carpetas aero*
+\mainp\contol.f90 2 cambios
+\mainp\ctrl_db.f90 3 cambios
+\mainp\data_inp.f90 2 cambios
+\mainp\dumpin.f90 2 cambios
+\mainp\dynamic.f90 varios cambios (quedaron dos diferencias que están bien)
+\mainp\initial_comp.f90 2 cambios
+\mainp\mainpg.f90 3 cambios queda una diferencia
+\mainp\restar.f90 2 cambios
+
+
+DIFERENCIAS ENTRE SIMPACT Y SIMPACTA QUE NO ESTOY SEGURO SI LOS HICE YO
+(POR LO TANTO LO DEJÉ COMO ESTABA)
+\mainp\elem10.h 2 cambios
+\mainp\elemnt.f90 2 cambios
+
+
+
